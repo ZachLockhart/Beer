@@ -2,15 +2,9 @@
 
 ## Purpose
 This is a repository for keeping track of our beer related activities, to include:
-* Equipment
-* Consumables (in the context of materials that get used up)
-* Inventory
+* [Supplies (Equipment, Consumables, Stuff on Order)](Materials/Supplies/Supplies.md)
+* [Inventory](Materials/Inventory.md)
 * [Recipes/Education/Guides/Misc](Cooking/Cooking.md)
-* Notes
-* 
-
-
-
 
 
 
