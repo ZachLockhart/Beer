@@ -5,9 +5,9 @@ This is a repository for keeping track of our beer related activities, to includ
 * Equipment
 * Consumables (in the context of materials that get used up)
 * Inventory
-* Recipes/Education
+* [Recipes/Education/Guides/Misc](Cooking/Cooking.md)
 * Notes
-* Guides / Misc.
+* 
 
 
 
