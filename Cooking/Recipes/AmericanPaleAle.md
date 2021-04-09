@@ -1,6 +1,6 @@
 # American Pale Ale
 
-<a href="https://www.seriouseats.com/recipes/2011/01/homebrewing-pale-ale-for-beginners-extract.html">American Pale Ale @ Serious Eats</a>
+<a href="https://www.seriouseats.com/recipes/2011/01/homebrewing-pale-ale-for-beginners-extract.html" target="_blank">American Pale Ale @ Serious Eats</a>
 
 ## Ingredients
 
