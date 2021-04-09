@@ -1,7 +1,7 @@
 # Cooking: Recipes, Guides, Information
 
 ## Recipes
-+ [American Pale Ale](Cooking/Recipes/AmericanPaleAle.md):w
++ [American Pale Ale](Recipes/AmericanPaleAle.md)
 
 
 
