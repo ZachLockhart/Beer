@@ -1,6 +1,6 @@
 # Consumables
 
-_Listing of all things that get used up.
+_Listing of all things that get used up._
 
 ## Cleaning
 
