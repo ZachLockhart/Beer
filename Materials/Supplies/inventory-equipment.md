@@ -15,3 +15,4 @@
 * Brush, 1
 * Capping Tool (red), 1
 * Hydrometer, 1
+* 2 Pack of 250 micron mesh Brew Bags, 1
