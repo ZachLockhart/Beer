@@ -14,6 +14,8 @@ _Listing of all things that get used up._
 * MB Malt - Rahr 6-row, 10 lb
 * Light Dry Malt Extract, 6 lb
 * 20L Brewing Malt Whole Grain, 16 oz
+* YCH Hops - Cascade Hop Pellets, 1 lb
+* Safale 2353X6 US-05 Yeast Packets, 6
 
 ## Bottling
 * Grolsch Bottles, 8
